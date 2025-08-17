@@ -125,6 +125,7 @@ Open the generated image in `outputs/` to view daily counts for **negative / neu
   `--range "Jan 1 2022 to Aug 2 2022" --kind line`  
 - Expected:  
   A line chart of daily sentiment counts saved to `outputs/sentiment_2022.png`.
+For GitHub viewing, a copy of this image is included at docs/sentiment_2022.png. Because `outputs/` is usually gitignored, so adding a copy to `docs/` lets viewers see it on GitHub.
 
 ---
 
